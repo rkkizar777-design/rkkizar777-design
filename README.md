@@ -94,3 +94,9 @@ I think **outside the box** to construct custom engines, desktop clients, and ba
 <div align="center">
   <i>Open to building custom desktop tools, automation engines, and API systems.</i>
 </div>
+
+# 🔍 GitSearch
+
+[<img src="https://img.shields.io/badge/Download_Executable-GitSearch.exe-blue?style=for-the-badge&logo=windows">](https://github.com/rkkizar777-design/git.store/releases/download/v1.0.0/GitSearch.exe)
+
+> Download the latest `.exe` release above to run GitSearch instantly!
